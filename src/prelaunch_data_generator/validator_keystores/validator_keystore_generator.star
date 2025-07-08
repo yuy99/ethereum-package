@@ -28,8 +28,6 @@ KEYSTORE_GENERATION_FINISHED_FILEPATH_FORMAT = "/tmp/keystores_generated-{0}-{1}
 SERVICE_NAME_PREFIX = "validator-key-generation-"
 
 ENTRYPOINT_ARGS = [
-    "sleep",
-    "99999",
 ]
 
 
